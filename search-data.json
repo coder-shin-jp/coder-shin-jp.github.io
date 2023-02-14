@@ -1,0 +1,35 @@
+[
+    
+    
+    
+        
+            {
+                "id": 0,
+                "href": "https://coder-shin-jp.github.io/post/javascript/",
+                "title": "javascript",
+                "section": "post",
+                "date" : "2023.02.14",
+                "body": "概要 (多分)何でも出来そうな感じがするjavascript(以下js)に関する文書\n詳細 今北産業 他の人がコーディング実力が気になる場合は 他の人が作成したjsコードを 盗んでみよう！ "
+            }
+    
+        ,
+            {
+                "id": 1,
+                "href": "https://coder-shin-jp.github.io/post/home/",
+                "title": "index",
+                "section": "post",
+                "date" : "2023.02.14",
+                "body": "概要 blogの案内所\n詳細 プログラミング言語 [[javascript]] 今北産業 特に 話したい事は なし！ "
+            }
+    
+        ,
+            {
+                "id": 2,
+                "href": "https://coder-shin-jp.github.io/about/",
+                "title": "コーダーシン",
+                "section": "",
+                "date" : "0001.01.01",
+                "body": "Me Web App 開発者です。 ハードウェアはキーボードだけ興味あります。 ソフトウェアは基本的にTUIを好みます。 変わらない知識を得るため頑張っています。 Skills 以下の内容はあくまで主観的な判断です。 Javascript =\u0026gt; God googleさんなしでも、大体な質問は答えできます。 Java =\u0026gt; God googleさんと一緒だったら、頑張れます。 SQL =\u0026gt; God googleさんと一緒だとしても、分からない所が多いです。助けて！ Shell =\u0026gt; Shellは自分の友達！ Back-end =\u0026gt; 会社の皆さんが上手で、逆に分からない所が多いです。 Front-end =\u0026gt; 会社の皆さんがよく質問してくれて、色んなことをやって見ました！ Database =\u0026gt; 会社の皆さんが上手すぎて、逆に自分は全然ダメです。（最近勉強中です。） UI/UX =\u0026gt; 会社でできる人がいなくて、自分が勉強中です。 Blog blogの全ての内容は WTFPL ライセンスが適用されます。 blogの内容をcopyして他の所に広げてもかまいません！ 間違えた内容がありましたら指摘してください。 "
+            }
+    
+]

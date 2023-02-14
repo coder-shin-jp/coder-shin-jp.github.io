@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>programing languages on コーダーシン</title>
+		<link>https://coder-shin-jp.github.io/categories/programing-languages/</link>
+		<description>Recent content in programing languages </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>jp</language>
+		
+		<managingEditor>Page(/categories/programing-languages) (Shin)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 14 Feb 2023 21:50:43 +0900</lastBuildDate>
+		
+		<atom:link href="/categories/programing-languages/" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>javascript</title>
+			<link>https://coder-shin-jp.github.io/post/javascript/</link>
+			<pubDate>Tue, 14 Feb 2023 21:50:43 +0900</pubDate>
+			<guid>https://coder-shin-jp.github.io/post/javascript/</guid>
+			<description>javascript</description>
+		</item>
+      	
+		<item>
+			<title>index</title>
+			<link>https://coder-shin-jp.github.io/post/home/</link>
+			<pubDate>Tue, 14 Feb 2023 21:05:40 +0900</pubDate>
+			<guid>https://coder-shin-jp.github.io/post/home/</guid>
+			<description>このblogの原点</description>
+		</item>
+      	
+	</channel>
+</rss>
